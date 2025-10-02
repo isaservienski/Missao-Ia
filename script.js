@@ -9,76 +9,73 @@ const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmação"
+                texto: "Isso é fascinante, mas... qual é o custo para a verdade e para o 'eu'?",
+                afirmacao: "Como saber o que é real se qualquer áudio ou vídeo pode ser fabricado perfeitamente? A confiança no que vemos e ouvimos seria destruída."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmação"
+                texto: "Uau, o conhecimento acabou de ficar totalmente democrático e acessível, e de uma forma incrivelmente envolvente!",
+                afirmacao: " Isso abriria portas para a educação instantânea e a expressão artística sem barreiras técnicas, tornando-se um catalisador para a criatividade global."
+
+"
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com o surgimento de plataformas de "rave online" que permitem a sincronização perfeita de áudio e vídeo de DJs e a interação social global via chat/áudio em tempo real, qual é o novo papel social e cultural do DJ ou do anfitrião (host) do evento, e como esta tecnologia altera a dinâmica de pertencimento e o senso de comunidade entre os participantes virtuais?É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "O Desafio da Autenticidade!",
+                afirmacao: "A verdadeira crise da informação na era da Inteligência Artificial não será a falta de dados, mas sim a incapacidade de distinguir o autêntico do hiper-realista, tornando o ceticismo informado a habilidade cognitiva mais valiosa.Consigo utilizar a IA para buscar informações úteis, sei como as utilizar de forma segura e coerente."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "O Novo Valor da Educação",
+                afirmacao: "TNa presença de uma IA capaz de fornecer todas as respostas instantaneamente, o valor da educação migra de adquirir conhecimento para saber fazer as perguntas certas e aplicar o conhecimento de forma ética e criativa."
+            }
+        ]
+    },
+   
+    {
+        enunciado: "Na presença de plataformas de "rave online" que entregam áudio e vídeo perfeitamente sincronizados e infinitos, o valor da experiência migra de consumir o evento para curar a interação e cultivar o senso de pertencimento na comunidade virtual?",
+        alternativas: [
+            {
+                texto: "O Desafio da Autenticidade Digital."
+                afirmacao: "A verdadeira crise da informação na era da Inteligência Artificial não será a falta de dados, mas sim a incapacidade de distinguir o autêntico do hiper-realista, tornando o ceticismo informado a habilidade cognitiva mais valiosa."
+            },
+            {
+                texto: "A Necessidade de Curadoria na Cultura Virtual",
+            
+                afirmacao: "Em ambientes como a rave online, onde o conteúdo (música, vídeo) é infinito e acessível, o novo valor não reside na produção, mas sim na curadoria perspicaz e na habilidade de cultivar a conexão para transformar o consumo passivo em pertencimento ativo."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: [
+        enunciado: "No futuro, você acredita que mesmo com a dominação de eventos e plataformas de "rave online" que oferecem conveniência e alcance global, as pessoas ainda poderão ter a liberdade cultural de escolher a experiência de uma rave tradicional (física) sem que ela seja considerada obsoleta ou inferior?" [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: "A Sobrecarga da Conveniência",
+                afirmacao: "A conveniência extrema oferecida pela Inteligência Artificial e pela sincronização instantânea de entretenimento digital (como em uma rave online) acarreta um novo custo social: a erosão lenta da paciência e da valorização do esforço humano na criação e na busca por conhecimento"
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "O Novo Significado da Liberdade Cultural!",
+                afirmacao: "Em um futuro dominado pela eficiência tecnológica (tratamentos de saúde automatizados ou raves virtuais perfeitas), a liberdade de escolha se torna um ato de resistência cultural, onde optar pelo "tradicional" (seja um médico humano ou um evento físico) é uma declaração de valor e preferência pela experiência sensorial imperfeita.."
             }
         ]
     },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
-            {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
-            },
-            {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
-            }
-        ]
-    },
-    {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
-        alternativas: [
-            {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
-            },
-            {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
-            }
-        ]
-    },
+   
 ];
+
 
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
 
 function mostraPergunta() {
+    if (atual >= perguntas.length) {
+        mostraResultado();
+        return;
+    }
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
+    caixaAlternativas.textContent = "";
     mostraAlternativas();
 }
 
@@ -91,11 +88,17 @@ function mostraAlternativas(){
     }
 }
 
-function respostaSelecionada(opcaoSelecionada){
-    const afirmacoes = opcaoSelecionada.afirmacoes;
-    historiaFinal = afirmacoes;
+function respostaSelecionada(opcaoSelecionada) {
+    const afirmacoes = opcaoSelecionada.afirmacao;
+    historiaFinal += afirmacoes + " ";
     atual++;
     mostraPergunta();
+}
+
+function mostraResultado() {
+    caixaPerguntas.textContent = "Em 2030...";
+    textoResultado.textContent = historiaFinal;
+    caixaAlternativas.textContent = "";
 }
 
 mostraPergunta();
