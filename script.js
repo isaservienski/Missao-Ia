@@ -21,7 +21,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com o surgimento de plataformas de "rave online" que permitem a sincronização perfeita de áudio e vídeo de DJs e a interação social global via chat/áudio em tempo real, qual é o novo papel social e cultural do DJ ou do anfitrião (host) do evento, e como esta tecnologia altera a dinâmica de pertencimento e o senso de comunidade entre os participantes virtuais?É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas.",
+        enunciado: "Com o surgimento de plataformas de rave online que permitem a sincronização perfeita de áudio e vídeo de DJs e a interação social global via chat/áudio em tempo real, qual é o novo papel social e cultural do DJ ou do anfitrião (host) do evento, e como esta tecnologia altera a dinâmica de pertencimento e o senso de comunidade entre os participantes virtuais?É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas.",
         alternativas: [
             {
                 texto: "O Desafio da Autenticidade!",
@@ -35,7 +35,7 @@ const perguntas = [
     },
    
     {
-        enunciado: "Na presença de plataformas de "rave online" que entregam áudio e vídeo perfeitamente sincronizados e infinitos, o valor da experiência migra de consumir o evento para curar a interação e cultivar o senso de pertencimento na comunidade virtual?",
+        enunciado: "Na presença de plataformas de rave online que entregam áudio e vídeo perfeitamente sincronizados e infinitos, o valor da experiência migra de consumir o evento para curar a interação e cultivar o senso de pertencimento na comunidade virtual?",
         alternativas: [
             {
                 texto: "O Desafio da Autenticidade Digital."
@@ -49,14 +49,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "No futuro, você acredita que mesmo com a dominação de eventos e plataformas de "rave online" que oferecem conveniência e alcance global, as pessoas ainda poderão ter a liberdade cultural de escolher a experiência de uma rave tradicional (física) sem que ela seja considerada obsoleta ou inferior?" [
+        enunciado: "No futuro, você acredita que mesmo com a dominação de eventos e plataformas de rave online que oferecem conveniência e alcance global, as pessoas ainda poderão ter a liberdade cultural de escolher a experiência de uma rave tradicional (física) sem que ela seja considerada obsoleta ou inferior?" [
             {
                 texto: "A Sobrecarga da Conveniência",
                 afirmacao: "A conveniência extrema oferecida pela Inteligência Artificial e pela sincronização instantânea de entretenimento digital (como em uma rave online) acarreta um novo custo social: a erosão lenta da paciência e da valorização do esforço humano na criação e na busca por conhecimento"
             },
             {
                 texto: "O Novo Significado da Liberdade Cultural!",
-                afirmacao: "Em um futuro dominado pela eficiência tecnológica (tratamentos de saúde automatizados ou raves virtuais perfeitas), a liberdade de escolha se torna um ato de resistência cultural, onde optar pelo "tradicional" (seja um médico humano ou um evento físico) é uma declaração de valor e preferência pela experiência sensorial imperfeita.."
+                afirmacao: "Em um futuro dominado pela eficiência tecnológica (tratamentos de saúde automatizados ou raves virtuais perfeitas), a liberdade de escolha se torna um ato de resistência cultural, onde optar pelo tradicional (seja um médico humano ou um evento físico) é uma declaração de valor e preferência pela experiência sensorial imperfeita.."
             }
         ]
     },
